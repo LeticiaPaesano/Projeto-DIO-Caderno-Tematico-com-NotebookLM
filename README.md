@@ -51,19 +51,16 @@ As fontes foram utilizadas como base para a construção do conhecimento no Note
 
 ### Fontes utilizadas
 
-1. **Análise Vertical e Horizontal — Ricardo House / TecConcursos**
-   - Utilizada como referência para os conceitos de análise vertical e horizontal das demonstrações financeiras.
+1. [**Análise Vertical e Horizontal — Ricardo House / TecConcursos**](https://youtu.be/saSi9_2-vrs?si=ZzjjHETSbj_ReHD1)   - Utilizada como referência para os conceitos de análise vertical e horizontal das demonstrações financeiras.
 
-2. **A Ciência de Dados no Setor Financeiro — Diego Dias / Preditiva AI**
-   - Utilizada como referência para a relação entre Ciência de Dados e setor financeiro.
+2. [**A Ciência de Dados no Setor Financeiro — Diego Dias / Preditiva AI**](https://www.preditiva.ai/blog/a-ciencia-de-dados-no-setor-financeiro) - Utilizada como referência para a relação entre Ciência de Dados e setor financeiro.
 
-3. **Análise de Custos e Margem de Segurança — Andréa Martins Cristovão**
+3. **Análise de Custos e Margem de Segurança — Andréa Martins Cristovão (PDF)**
    - Utilizada para os conceitos relacionados à gestão de custos, margem de contribuição, ponto de equilíbrio e margem de segurança.
 
-4. **Análise Exploratória de Dados com SQL — Joelson Pinto / DIO**
-   - Utilizada para relacionar SQL e análise exploratória de dados ao contexto financeiro.
+4. [**Análise Exploratória de Dados com SQL — Joelson Pinto / DIO**](https://www.dio.me/articles/analise-exploratoria-de-dados-com-sql) - Utilizada para relacionar SQL e análise exploratória de dados ao contexto financeiro.
 
-5. **Consolidação de Demonstrações Contábeis e Equivalência Patrimonial — Wellington R. S. Souza**
+5. **Consolidação de Demonstrações Contábeis e Equivalência Patrimonial — Wellington R. S. Souza (PDF)**
    - Utilizada para complementar os conhecimentos relacionados à consolidação das demonstrações e participações societárias.
 
 > As fontes foram utilizadas como material de estudo e como base para as consultas realizadas durante a construção do caderno temático.
@@ -875,19 +872,23 @@ Ao final do estudo, algumas perguntas passaram a representar o tipo de raciocín
 | **DAX**         | Criação de medidas e indicadores                  |
 | **GitHub**      | Documentação e organização do projeto             |
 
+---
+
 # 📁 22. Estrutura do Projeto
 
 Os materiais produzidos durante o desenvolvimento foram organizados da seguinte forma:
 
 ```
-├── README.md
-│
-└── Docs/
-    ├── Notebook_completo
-    ├── Notebook_mapa_mental
-    ├── Relatorio_gerado_pelo_notebook
-    └── Miniguia_financeiro_dado
+├── Docs/
+│   └── docs/
+│       ├── Miniguia_README.md
+│       ├── Copia _prompts_notebook.pdf
+│       ├── Notebook_mapa_mental.png
+│       └── Relatorio_gerado_pelo_notebook.pdf
+└── README.md
 ```
+
+---
 
 # 📌 23. Conclusão
 
@@ -925,4 +926,4 @@ A decisão transforma essa informação em ação.
 ---
 ### 📚 Documentação complementar
 
-Para acompanhar o desenvolvimento detalhado do projeto, consulte a pasta docs, onde estão disponíveis os materiais complementares, incluindo os prompts utilizados, estudos desenvolvidos, mapa mental e miniguia.
+Para acompanhar o desenvolvimento detalhado do projeto, consulte a [pasta docs](https://github.com/LeticiaPaesano/Projeto-DIO-Caderno-Tematico-com-NotebookLM/tree/main/Docs), onde estão disponíveis os materiais complementares, incluindo os prompts utilizados, estudos desenvolvidos, mapa mental e miniguia.
