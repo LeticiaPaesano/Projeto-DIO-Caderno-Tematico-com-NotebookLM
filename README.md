@@ -879,10 +879,12 @@ Ao final do estudo, algumas perguntas passaram a representar o tipo de raciocín
 Os materiais produzidos durante o desenvolvimento foram organizados da seguinte forma:
 
 ```
+.
 ├── Docs/
 │   └── docs/
 │       ├── Miniguia_README.md
 │       ├── Copia _prompts_notebook.pdf
+│       ├── Links_README.md
 │       ├── Notebook_mapa_mental.png
 │       └── Relatorio_gerado_pelo_notebook.pdf
 └── README.md
