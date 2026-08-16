@@ -206,7 +206,7 @@ Não transforme uma hipótese em conclusão sem apresentar
 a evidência correspondente.
 ```
 O refinamento tornou as respostas mais úteis para o objetivo do projeto.
-(Para saber detalhadamente verifique o arquivo na pasta docs)
+Para saber detalhadamente, verifique o [arquivo na pasta docs](https://github.com/LeticiaPaesano/Projeto-DIO-Caderno-Tematico-com-NotebookLM/blob/main/Docs/Copia%20_prompts_notebook.pdf) ou acesse o [Notebook pelo link](https://notebook.google.com/notebook/300eaf62-b5cd-4dae-9948-f60c91a23f80).
 
 # 📊 5. Desenvolvimento do Estudo no NotebookLM
 
